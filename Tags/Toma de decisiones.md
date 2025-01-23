@@ -1,0 +1,3 @@
+[[Espacio muestral]]
+[[Evento]]
+
