@@ -6,7 +6,7 @@ Categoría: [[Marco teórico]]
 
 Autor: [[OR Carrasco]]
 
-Tags:[[Kalman]],[[Distribución unimodal]],[[Probabilidad y estadística]], [[Navegación]], [[Tags/Localización|Localización]]
+Tags:[[Kalman]],[[Distribución unimodal]], [[Probabilidad y estadística]], [[Navegación]], [[Tags/Localización|Localización]], [[Fusión de data]].
 
 
 # Untitled
