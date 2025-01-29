@@ -1,6 +1,6 @@
 2024-12-11 13:20
 
-Status: en proceso
+Status: [[En Proceso]]
 
 Tags:[[Planeación de trayectoria]], [[Algoritmo de acoplamiento entre global y local]], [[Algoritmo D*Lite]], [[Ventana dinámica]], [[Mapa bi-layer]].
 
