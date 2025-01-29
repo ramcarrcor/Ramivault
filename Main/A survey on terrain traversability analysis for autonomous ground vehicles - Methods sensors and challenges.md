@@ -1,8 +1,8 @@
 2025-01-29 14:29
 
-Status: 
+Status: por comenzar
 
-Tags: [[Perce]]
+Tags: [[Percepción]], [[Sorteo de obstáculos]], [[Robots terrestres]], [[Navegación]].
 
 Autores: [[Paulo V. K. Borges]], [[Thierry Peynot]], [[Sisi Liang]], [[Bilal Arain]], [[Matthew Wildie]], [[Melih G. Minareci]], [[Serge Lichman]], [[Garima Samvedi]], [[Inkyu Sa]], [[Nicolas Hudson]], [[Michael Milford]], [[Peyman Moghadam]], [[Peter Corke]].
 
