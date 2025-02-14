@@ -29,6 +29,6 @@ Los módulos fueron generados en ROS.
 
 Lograron a partir de las imágenes obtener una ruta de traversabilidad donde las áreas con colores menos profundo son las zonas que se pueden transitar con mayor facilidad mientras que las zonas más oscuras representan mayor costo. 
 
-Un aspecto a resaltar es que esta metodología no es en línea, es decir en tiempo real, por lo que esto representa un área de oportunidad.
+Un aspecto a resaltar es que esta metodología no es en línea, es decir en tiempo real, por lo que esto representa un área de oportunidad. 
 # referencias
 
