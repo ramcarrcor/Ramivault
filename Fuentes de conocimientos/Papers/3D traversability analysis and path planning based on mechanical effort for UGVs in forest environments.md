@@ -41,4 +41,4 @@ Que las trayectorias generadas por esta manera aunque sean diferentes a las gene
 Esta metodología aunque provoca trayectos más largos el riesgo de una volcadura se minimiza, siendo uno de los problemas de los UGVs que al generar una trayectoria se genera la más corta sin importar el incremento en el riesgo.
 
 # referencias
-
+Fff

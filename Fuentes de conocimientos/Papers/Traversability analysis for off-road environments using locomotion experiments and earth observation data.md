@@ -17,10 +17,12 @@ Categoría: [[Fuentes de conocimientos/Investigación original]].
 La contribución principal de este estudio es que el mapeo de costo mecánico proviene de la información de locomoción de experimentos estandarizados para diferentes tipos de terreno. Generaron un dataset de las mediciones realizadas por GPS y la IMU a cuatro robots diferentes, uno con orugas, otro de ruedas, de patas y se encuentra aquí https://robonav.ist.tugraz.at/data/.
 ### ¿Cómo se hizo?
 
-El análisis de transitabilidad se hizo mediante una combinación de sensores propioceptivos y observaciones en GPS
+El análisis de transitabilidad se hizo mediante una combinación de sensores propioceptivos y observaciones en GPS. La información de locomoción proveniente de los sensores se representó en forma de vector, un vector por sensor el cual pertenece r^k  
 ### ¿Qué se encontró? 
 
 
 # referencias
 
 https://robonav.ist.tugraz.at/data/
+
+Se armó
