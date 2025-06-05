@@ -6,7 +6,7 @@ Tags:[[Sensores]], [[Vehículos autónomos]], [[Clasificación del terreno]], [[
 
 Autores: [[Fabio Vulpi]], [[Annalisa Milella]], [[Roberto Marani]], [[Giulio Reina]]
 
-Categoría [[Investigación original]]
+Categoría [[Fuentes de conocimientos/Investigación original]]
 
 
 # Recurrent and convolutional neural networks for deep terrain classification by autonomous robots

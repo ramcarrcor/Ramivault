@@ -6,10 +6,10 @@ Tags: [[Análisis de transversabilidad]], [[Segmentación semántica]], [[Ambien
 
 Autores: [[Tiga Ho Yin Leung]], [[Dmitry Ignatyev]], [[Argyrios Zolotas]].
 
-Categoría: [[Investigación original]]
+Categoría: [[Fuentes de conocimientos/Investigación original]]
 
 
-# Hybrid terrain traversability analysis in off-road environments
+# Hybrid terrain traversability analysis in off-road environments[^1]
 
 ### ¿Qué se hizo?
 Usaron segmentación semántica para la clasificación de terreno en terracería para identificar los diferentes tipos de terreno que rodean al robot, con esto el robot puede optimizar su trayectoria. A su vez mediante la valoración de las propiedades geométricas con ayuda de un mapa de elevación permite considerar las capacidades físicas del robot dentro de un análisis de transversabilidad.
@@ -29,6 +29,8 @@ Los módulos fueron generados en ROS.
 
 Lograron a partir de las imágenes obtener una ruta de traversabilidad donde las áreas con colores menos profundo son las zonas que se pueden transitar con mayor facilidad mientras que las zonas más oscuras representan mayor costo. 
 
-Un aspecto a resaltar es que esta metodología no es en línea, es decir en tiempo real, por lo que esto representa un área de oportunidad. 
+Un aspecto a resaltar es que esta metodología no es en línea, es decir en tiempo real, por lo que esto representa un área de oportunidad.
 # referencias
+# Footnotes
 
+[^1]: 

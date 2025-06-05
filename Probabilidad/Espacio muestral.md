@@ -24,3 +24,4 @@ Lo anterior se lee “el espacio muestral S es el conjunto de todas las x tal qu
 
 
 # referencias
+Probabilidad y estadística de Walpole
