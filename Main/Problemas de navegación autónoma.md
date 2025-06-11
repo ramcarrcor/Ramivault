@@ -27,4 +27,3 @@ Es importante resaltar que aunque los filtros tipo Kalman sean ampliamente usado
  
  
 
- 
